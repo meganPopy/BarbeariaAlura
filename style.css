@@ -6,8 +6,8 @@ body{
   background: #CCCCCC
 }
 
-h1 {
-  text-align: center;
+.titulo-centralizado {
+    text-align: center
 }
 
 p{
@@ -34,15 +34,19 @@ body {
     padding: 20px;
 }
 
-h2 {
-    text-align: center;
-}
+
+
 ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
+
 .imagembeneficios {
     width: 50%;
+}
+
+.titulo-principal {
+    padding-left: 20px;
 }
